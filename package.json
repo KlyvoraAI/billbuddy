@@ -1,0 +1,13 @@
+{
+  "name": "billbuddy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal bill and subscription tracker",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.50.0"
+  }
+}
